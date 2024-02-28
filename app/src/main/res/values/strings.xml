@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android3.6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">delete</string>
+    <string name="path">path</string>
+    <string name="put">put</string>
+    <string name="post">post</string>
+</resources>
